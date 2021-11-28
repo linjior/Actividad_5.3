@@ -1,11 +1,11 @@
 
 package Clases;
 
-public class Algoritmos {
+public class DatosDesordenados {
     
     int i,j,temporal,pasadas;
     
-    public Algoritmos(){
+    public DatosDesordenados(){
         this.i=0;
         this.j=0;
         this.temporal=0;
