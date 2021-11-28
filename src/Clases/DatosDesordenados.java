@@ -43,6 +43,7 @@ public class DatosDesordenados {
         System.out.println("Termino en "+pasadas+" Pasadas");
 }
     
+    
     //Metodo Radix
     public void Radix(int[] arreglo){
         int x,i,j;
@@ -161,7 +162,7 @@ public class DatosDesordenados {
     public void mostrarArreglo(int[] arreglo){
         int k;
         for(k=0;k<arreglo.length;k++){
-            System.out.print("["+arreglo[k]+"]");
+            System.out.print("["+arreglo[k]+"]"+"\n");
         }
         System.out.println("");
     }

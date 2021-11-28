@@ -14,7 +14,7 @@ public class Presentacion {
         int vector2[]={55,4,43,44,2,10,4567,4563};
         int vector3[]={5,2,1,8,3,9,7};
         
-        /*
+        
         //BURBUJAS
         System.out.print("Arreglo original");
         ordenar.mostrarArreglo(vector1);
@@ -48,7 +48,7 @@ public class Presentacion {
             vectorcito[i]=Integer.parseInt(JOptionPane.showInputDialog(null,"Ingresa el elemento del indice "+i+":"));
             ordenar.insersion(vectorcito, i+1 );
         }
-        */
+        
         
         //System.out.println("Vector Original");
         //ordenar.mostrarArreglo(vector3);
